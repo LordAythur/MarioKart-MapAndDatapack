@@ -1,0 +1,1 @@
+item replace entity @s weapon.offhand with warped_fungus_on_a_stick{CustomModelData:11,display:{Name:'{"text":"Blooper","color":"gray"}'},Tags:["blooper_item","use"]} 1

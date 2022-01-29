@@ -1,0 +1,2 @@
+data merge block 2 103 0 {Text2:'{"text":"Mode de jeu","color":"gray","bold":true}',Text3:'{"text":"Grand Prix","color":"yellow","italic":true,"clickEvent":{"action":"run_command","value":"/scoreboard players set @a choix_mode 1"}}',Text4:'{"text":"← →","color":"gray"}'}
+data merge block 2 103 0 {Text2:'{"text":"Mode de jeu","color":"gray","bold":true}',Text3:'{"text":"Choix de la course","color":"yellow","italic":true,"clickEvent":{"action":"run_command","value":"/scoreboard players set @a choix_mode 0"}}',Text4:'{"text":"← →","color":"gray"}'}

@@ -1,0 +1,8 @@
+execute if entity @s[team=1er] run team modify 1er suffix [" ⚐"]
+execute if entity @s[team=2eme] run team modify 2eme suffix [" ⚐"]
+execute if entity @s[team=3eme] run team modify 3eme suffix [" ⚐"]
+execute if entity @s[team=4eme] run team modify 4eme suffix [" ⚐"]
+execute if entity @s[team=5eme] run team modify 5eme suffix [" ⚐"]
+execute if entity @s[team=6eme] run team modify 6eme suffix [" ⚐"]
+execute if entity @s[team=7eme] run team modify 7eme suffix [" ⚐"]
+execute if entity @s[team=8eme] run team modify 8eme suffix [" ⚐"]

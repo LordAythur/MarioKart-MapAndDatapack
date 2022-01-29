@@ -1,0 +1,1 @@
+item replace entity @s weapon.offhand with warped_fungus_on_a_stick{CustomModelData:17,display:{Name:'{"text":"Triple Mushroom","color":"red"}'},Tags:["triple_mushroom_item","use"]} 1

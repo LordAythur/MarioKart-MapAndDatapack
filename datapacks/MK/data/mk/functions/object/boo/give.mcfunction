@@ -1,0 +1,1 @@
+item replace entity @s weapon.offhand with warped_fungus_on_a_stick{CustomModelData:5,display:{Name:'{"text":"Boo","color":"gray"}'},Tags:["boo_item","use"]} 1
